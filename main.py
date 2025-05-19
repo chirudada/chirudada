@@ -1,5 +1,5 @@
 #ENCODED BY : XM9RTY AYUSH K1NG
-#ENCRYPTION : Py3 ZLIB
+#ENCRYPTION : Python3 ZLIB
 #GITHUB : https://github.com/XM9RTY AYUSH K1NG
 #----------------------------------------------
 import zlib
